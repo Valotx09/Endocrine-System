@@ -51,7 +51,7 @@
   <h1><center>Welcome to Our Endocrine System Project</center></h1>
   <p><em>The endocrine system</em> is one of the most important systems in the human body. It is made up of glands that produce and secrete hormones. These hormones regulate the body's growth, metabolism, and sexual development and function. Our project explores this body system in depth, including health problems and a robotic solution. We used programming and design tools to create a nano robot capable of helping with hormone regulation. We documented our entire journey, including code, videos, and our experiences. You will also find our reflections and a summary of each team member’s contributions. This website is the result of our research, hard work, and innovation.</p>
   <center>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffact-news.com.ua%2Fen%2Fprevention-of-diseases-of-the-endocrine-system-key-principles-and-practical-advice%2F&psig=AOvVaw2LgzQ57y1ajJmv3RZn7RFa&ust=1747873146143000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjC-IOls40DFQAAAAAdAAAAABAE" alt="Endocrine System Diagram">
+    <img src="https://fact-news.com.ua/wp-content/uploads/8888774.jpg">
     <img src="teamwork.jpg" alt="Team Working">
   </center>
 </div>

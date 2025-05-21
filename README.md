@@ -1,51 +1,5 @@
 # Endocrine-System
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Endocrine System Project</title>
-  <style>
-    body {
-      background-color: #f0f8ff;
-      font-family: Arial, sans-serif;
-      color: #333;
-    }
-    nav {
-      background-color: #007acc;
-      padding: 10px;
-      text-align: center;
-    }
-    nav a {
-      color: white;
-      margin: 0 15px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    h1, h2 {
-      color: #007acc;
-    }
-    .content {
-      padding: 20px;
-    }
-    img {
-      width: 300px;
-      margin: 10px;
-    }
-  </style>
-</head>
-<body>
-
-<nav>
-  <a href="index.html">Home</a>
-  <a href="research.html">Research Data</a>
-  <a href="problems.html">Problems</a>
-  <a href="robotic.html">Robotic Solution</a>
-  <a href="programming.html">Programming</a>
-  <a href="journey.html">Journey</a>
-  <a href="conclusion.html">Conclusion</a>
-  <a href="team.html">Team</a>
-</nav>
 
 <div class="content">
   <h1><center>Welcome to Our Endocrine System Project</center></h1>
